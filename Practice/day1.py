@@ -9,4 +9,4 @@ asdsa"""
 #print("Iam Ishwar Chaudhary","Iam Computer Science Major in Coventry University,UK")
 #print("Ishu")
 #print("C:\'Ishu")
-print("Softwarica \n Is a shit college \t 1") #escape sequence
+print("Softwarica \n Is a good college \t 1") #escape sequence
