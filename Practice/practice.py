@@ -21,9 +21,9 @@ for i in list1:
 #while and break and continue
 
 while(True):
-        i = int(input("Enter any number"))
+        i = int(input("Enter any number\n"))
         if i<100:
-                print("Try again")
+                print("Try again\n")
                 continue
         else:
                 print("Congratulations")
