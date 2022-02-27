@@ -1,11 +1,12 @@
 #Write a code to draw the shape Hexagon
 
-import turtle
-screen = turtle.screensize()
-a = turtle.Turtle()
+import turtle as tt
+screen = tt.screensize()
+tt.Turtle()
 
 for i in range(6):
-    a.forward(90)
-    a.left(300)
+    tt.forward(90)
+    tt.left(300)
+tt.mainloop()
 
 
